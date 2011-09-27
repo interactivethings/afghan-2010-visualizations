@@ -1,7 +1,7 @@
 Introduction
 ============
 
-Interactive Things has been supporting Democracy International on their [Election Observation Mission to Afghanistan 2010](http://afghan2010.com) by providing visualizations of collected and relevant data.
+Interactive Things has been supporting Democracy International on their [Election Observation Mission to Afghanistan 2010](http://afghan2010.com) by providing a set of static and interactive information graphics.
 
 You can [find out more](http://datavisualization.ch/opinions/how-we-visualized-6-million-votes) about this project on our blog.
 
